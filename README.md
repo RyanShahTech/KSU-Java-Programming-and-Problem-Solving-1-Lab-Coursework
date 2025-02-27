@@ -1,4 +1,4 @@
-# KSU-Java-Programming-and-Problem-Solving-1-Coursework
+# KSU Java-Programming-and-Problem-Solving-1-Coursework
 
 Coursework and programming assignments from Kennesaw State University.
 
